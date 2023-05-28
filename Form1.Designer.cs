@@ -380,7 +380,7 @@ namespace MyMediaPlayer
 
         }
 
-        private void открытьToolStripMenuItem_Click(object sender, EventArgs e) => throw new NotImplementedException();
+        private void открытьToolStripMenuItem_Click(object sender, EventArgs e) => new NotImplementedException();
 
         public override bool Equals(object obj)
         {
